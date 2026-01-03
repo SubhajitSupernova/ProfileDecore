@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kaufman&color=00d2ff&height=200&section=header&text=Subhajit%20Bardhan&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20%7C%20Mobile%20%7C%20Cloud%20Engineer&descAlignY=60&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d2ff&height=200&section=header&text=Subhajit%20Bardhan&fontSize=60" width="100%" />
 
   <br/>
 
