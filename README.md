@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="logo.png" width="100%" hight="20% />
+  <img src="branding_me.png" width="100%" hight="20% />
 
   <br/>
 
