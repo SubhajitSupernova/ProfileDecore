@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d2ff&height=200&section=header&text=Subhajit%20Bardhan&fontSize=60" width="100%" />
+  <img src="Branding.png" width="100%" />
 
   <br/>
 
