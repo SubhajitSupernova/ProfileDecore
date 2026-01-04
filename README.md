@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="test.png" width="100%" hight="20% />
+  <img src="banner.png" width="100%" hight="20% />
 
   <br/>
 
