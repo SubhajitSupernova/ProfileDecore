@@ -38,31 +38,33 @@
 
 ---
 
-### 📂 Operational Overview
-| Metric | Status | Level |
-| :--- | :---: | :--- |
-| **Backend Architecture** | `Active` | ████████████░░ 85% |
-| **Mobile Deployment** | `Stable` | ██████████░░░░ 70% |
-| **Microservices Uptime**| `99.9%` | ██████████████ 100% |
-| **Cloud Integration** | `Optimized`| █████████░░░░░ 65% |
-
----
-
-### 🛠️ Tech Stack Matrix
-> **Note:** A highly specialized toolkit for modern digital scaling.
-
-- **CORE ENGINE:** `Java` • `Spring Boot` • `Kotlin` • `Dart`
-- **INTERFACE:** `React` • `Angular` • `Flutter` • `Material UI`
-- **INFRASTRUCTURE:** `Docker` • `Firebase` • `Git` • `REST APIs`
-
----
-
-### 📊 Performance Analytics
+### 📈 Technical Proficiency Matrix
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D2FF" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00D2FF" height="170px" />
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" valign="bottom" style="padding: 0 10px; border: none;">
+        <div style="background: #E76F51; width: 40px; height: 160px; border-radius: 5px 5px 0 0;"></div>
+        <br/><strong>Java</strong>
+      </td>
+      <td align="center" valign="bottom" style="padding: 0 10px; border: none;">
+        <div style="background: #2A9D8F; width: 40px; height: 140px; border-radius: 5px 5px 0 0;"></div>
+        <br/><strong>Spring</strong>
+      </td>
+      <td align="center" valign="bottom" style="padding: 0 10px; border: none;">
+        <div style="background: #00D2FF; width: 40px; height: 150px; border-radius: 5px 5px 0 0;"></div>
+        <br/><strong>Flutter</strong>
+      </td>
+      <td align="center" valign="bottom" style="padding: 0 10px; border: none;">
+        <div style="background: #61DAFB; width: 40px; height: 120px; border-radius: 5px 5px 0 0;"></div>
+        <br/><strong>React</strong>
+      </td>
+      <td align="center" valign="bottom" style="padding: 0 10px; border: none;">
+        <div style="background: #E9C46A; width: 40px; height: 110px; border-radius: 5px 5px 0 0;"></div>
+        <br/><strong>SQL</strong>
+      </td>
+    </tr>
+  </table>
 </div>
-
 ---
 
 ### ⚡ Contribution Velocity (Commit UI)
