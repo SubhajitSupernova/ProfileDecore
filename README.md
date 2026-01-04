@@ -56,12 +56,31 @@
 ---
 
 ### ⚡ Contribution Velocity (Live Time-Series)
+---
+
+### ⚡ Contribution Velocity (Live Performance Matrix)
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhajitSupernova&theme=tokyonight&area=true&hide_border=true&color=00D2FF&point=00D2FF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhajitSupernova&bg_color=0D1117&color=00D2FF&line=00D2FF&point=FF5733,33FF57,00D2FF,FF33A1,E9C46A&area=true&hide_border=true&area_color=00D2FF" width="100%" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhajitSupernova&theme=tokyonight&hide_border=true&stroke=00D2FF&ring=00D2FF&fire=FF5733" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhajitSupernova&theme=tokyonight&hide_border=true" width="100%" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Data_Precision-High-00D2FF?style=flat-square&logo=git&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/System_Scale-Dynamic-33FF57?style=flat-square&logo=statuspage&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Velocity_Tracking-Real--Time-FF33A1?style=flat-square&logo=google-cloud&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
