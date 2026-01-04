@@ -18,26 +18,6 @@
 
 ---
 
-### 🛠️ Professional Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,dart,maven,react,angular,flutter,androidstudio,html,css,git,github,docker,firebase,postman&perline=9" />
-</div>
-
----
-
-### 📊 Performance Metrics
----
-
-### 📈 Performance Matrix & Coding Activity
-# 💻 System Architect | Performance Dashboard
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00D2FF&height=120&section=header&text=Subhajit%20Architect&fontSize=50" width="100%" />
-</div>
-
----
-
 ### 📈 Technical Proficiency Matrix
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
@@ -65,23 +45,27 @@
     </tr>
   </table>
 </div>
+
 ---
 
-### ⚡ Contribution Velocity (Commit UI)
+### 🛠️ Professional Tech Stack
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&area=true&hide_border=true&color=00D2FF" width="100%" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,dart,maven,react,angular,flutter,androidstudio,html,css,git,github,docker,firebase,postman&perline=9" />
 </div>
 
 ---
 
-### 🤝 Strategic Connections
+### 📊 Performance Metrics
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/CONNECT-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170px" />
+</div>
+
+---
+
+### ⚡ Contribution Velocity
+<div align="center">
+  <img src="https://github-readme-activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&area=true&hide_border=true&color=00D2FF" width="100%" />
 </div>
 
 ---
@@ -93,9 +77,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-  
   <br/>
-  
   <code><strong>Status:</strong> Active Developer</code> | <code><strong>Game:</strong> Generating Commits</code>
 </div>
 
@@ -103,9 +85,9 @@
 
 ### 🤝 Connect With Me
 <div align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 </div>
 
 <br/>
