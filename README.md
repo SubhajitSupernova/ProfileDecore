@@ -30,28 +30,56 @@
 ---
 
 ### 📈 Performance Matrix & Coding Activity
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="100%" />
-  
-  <br/>
+# 💻 System Architect | Performance Dashboard
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&area=true&hide_border=true" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00D2FF&height=120&section=header&text=Subhajit%20Architect&fontSize=50" width="100%" />
 </div>
 
+---
+
+### 📂 Operational Overview
+| Metric | Status | Level |
+| :--- | :---: | :--- |
+| **Backend Architecture** | `Active` | ████████████░░ 85% |
+| **Mobile Deployment** | `Stable` | ██████████░░░░ 70% |
+| **Microservices Uptime**| `99.9%` | ██████████████ 100% |
+| **Cloud Integration** | `Optimized`| █████████░░░░░ 65% |
+
+---
+
+### 🛠️ Tech Stack Matrix
+> **Note:** A highly specialized toolkit for modern digital scaling.
+
+- **CORE ENGINE:** `Java` • `Spring Boot` • `Kotlin` • `Dart`
+- **INTERFACE:** `React` • `Angular` • `Flutter` • `Material UI`
+- **INFRASTRUCTURE:** `Docker` • `Firebase` • `Git` • `REST APIs`
+
+---
+
+### 📊 Performance Analytics
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Commit_Velocity-High-00D2FF?style=for-the-badge&logo=git&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=for-the-badge&logo=uptime-kuma&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/System_Status-Stable-00D2FF?style=for-the-badge&logo=statuspage&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D2FF" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00D2FF" height="170px" />
+</div>
+
+---
+
+### ⚡ Contribution Velocity (Commit UI)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&area=true&hide_border=true&color=00D2FF" width="100%" />
+</div>
+
+---
+
+### 🤝 Strategic Connections
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/CONNECT-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
