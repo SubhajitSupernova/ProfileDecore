@@ -55,9 +55,6 @@
 
 ---
 
-### ⚡ Contribution Velocity (Live Time-Series)
----
-
 ### ⚡ Contribution Velocity (Live Performance Matrix)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhajitSupernova&bg_color=0D1117&color=00D2FF&line=00D2FF&point=FF5733,33FF57,00D2FF,FF33A1,E9C46A&area=true&hide_border=true&area_color=00D2FF" width="100%" />
@@ -68,7 +65,7 @@
 </div>
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/Data_Precision-High-00D2FF?style=flat-square&logo=git&logoColor=white" />
