@@ -10,6 +10,13 @@
 
 ---
 
+### 🚀 About Me
+- 🔭 **Current Focus:** High-Performance Microservices & Fluid Cross-Platform Apps.
+- 🎨 **Expertise:** Crafting Responsive UIs with React and robust Backends with Java/Spring.
+- ⚡ **Philosophy:** Clean code, scalable architecture, and continuous learning.
+
+---
+
 ### 📈 Technical Proficiency Matrix
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
@@ -42,43 +49,47 @@
 
 ### 🛠️ Professional Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,dart,maven,react,angular,flutter,androidstudio,html,css,git,github,docker,firebase,postman&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,dart,maven,react,angular,flutter,androidstudio,html,css,git,github,docker,firebase,postman,mysql,mongodb,aws,linux,vscode,idea&perline=11" />
+</div>
+
+---
+
+### 🏆 Problem Solving & Certifications
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <strong>LeetCode Statistics</strong><br/>
+        <img src="https://leetcard.jacoblin.cool/SubhajitSupernova?theme=dark&font=Fira%20Code" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <strong>Badges & Verifications</strong><br/>
+        <img src="https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=Credly&logoColor=white" />
+        <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Certified-AWS_Developer-orange?style=flat-square&logo=amazon-aws" />
+        <img src="https://img.shields.io/badge/Certified-Spring_Boot-green?style=flat-square&logo=spring" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ### 📊 Performance Analytics Dashboard
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhajitSupernova&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D2FF&text_bold=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhajitSupernova&layout=compact&theme=tokyonight&hide_border=true&title_color=00D2FF" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SubhajitSupernova&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D2FF" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SubhajitSupernova&layout=compact&theme=tokyonight&hide_border=true&title_color=00D2FF&hide=html,css,cmake,makefile&langs_count=5" height="180px" alt="Top Languages" />
 </div>
 
 ---
 
-### ⚡ Contribution Velocity (Live Performance Matrix)
+### ⚡ Contribution Velocity (Live Gradient Matrix)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhajitSupernova&bg_color=0D1117&color=00D2FF&line=00D2FF&point=FF5733,33FF57,00D2FF,FF33A1,E9C46A&area=true&hide_border=true&area_color=00D2FF" width="100%" />
-
+  
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhajitSupernova&theme=tokyonight&hide_border=true&stroke=00D2FF&ring=00D2FF&fire=FF5733" width="100%" />
-  <img src="banner.png" width="100%" />
-</div>
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Data_Precision-High-00D2FF?style=flat-square&logo=git&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/System_Scale-Dynamic-33FF57?style=flat-square&logo=statuspage&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Velocity_Tracking-Real--Time-FF33A1?style=flat-square&logo=google-cloud&logoColor=white" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
