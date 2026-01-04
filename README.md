@@ -27,13 +27,31 @@
 ---
 
 ### 📊 Performance Metrics
+---
+
+### 📈 Performance Matrix & Coding Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170px" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="100%" />
+  
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="100%" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Commit_Velocity-High-00D2FF?style=for-the-badge&logo=git&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=for-the-badge&logo=uptime-kuma&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/System_Status-Stable-00D2FF?style=for-the-badge&logo=statuspage&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
