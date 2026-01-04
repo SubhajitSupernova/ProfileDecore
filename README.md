@@ -55,7 +55,7 @@
 
 ---
 
-### ⚡ Contribution Velocity (Time-Series Data)
+### ⚡ Contribution Velocity (Live Time-Series)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhajitSupernova&theme=tokyonight&area=true&hide_border=true&color=00D2FF&point=00D2FF" width="100%" />
 </div>
