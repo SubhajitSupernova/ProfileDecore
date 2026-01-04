@@ -1,8 +1,7 @@
-# ProfileDecore
-
+# 🚀 Professional Full-Stack Portfolio
 
 <div align="center">
-  <img src="banner.png" width="100%" hight="20% />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D2FF&height=200&section=header&text=Subhajit%20Designs&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <br/>
 
@@ -12,35 +11,22 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Working on **High-Performance Microservices** with Java & Spring Boot.
-- 📱 Building **Fluid Cross-Platform Apps** using Flutter & Kotlin.
-- 🎨 Creating **Responsive UIs** with React and Angular.
-- ⚡ Fun fact: I balance the robustness of **Java** with the agility of **Dart**.
+- 🔭 **Expertise:** Architecting **High-Performance Microservices** with Java & Spring Boot.
+- 📱 **Mobile:** Engineering **Fluid Cross-Platform Apps** using Flutter & Kotlin.
+- 🎨 **Frontend:** Crafting **Responsive & Immersive UIs** with React and Angular.
+- ⚡ **Philosophy:** Balancing the robustness of **Java** with the agility of **Dart**.
 
 ---
 
 ### 🛠️ Professional Tech Stack
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <strong>Backend & Logic</strong><br/>
-      <img src="https://skillicons.dev/icons?i=java,spring,kotlin,dart,maven" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Frontend & Mobile</strong><br/>
-      <img src="https://skillicons.dev/icons?i=react,angular,flutter,androidstudio,html,css" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Tools & Cloud</strong><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,postman" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,dart,maven,react,angular,flutter,androidstudio,html,css,git,github,docker,firebase,postman&perline=9" />
+</div>
 
 ---
 
-### 📊 Github Vitals
+### 📊 Performance Metrics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170px" />
@@ -52,7 +38,7 @@
 
 ---
 
-### 🎮 Coding Activity (Snake Animation)
+### 🎮 Coding Activity (Contribution Snake)
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
@@ -62,14 +48,7 @@
   
   <br/>
   
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Status-Active_Developer-00D2FF?style=flat-square&logo=github" />
-        <img src="https://img.shields.io/badge/Snake_Game-Generating_Commits-brightgreen?style=flat-square&logo=google-cloud" />
-      </td>
-    </tr>
-  </table>
+  <code><strong>Status:</strong> Active Developer</code> | <code><strong>Game:</strong> Generating Commits</code>
 </div>
 
 ---
