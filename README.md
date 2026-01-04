@@ -62,7 +62,7 @@
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhajitSupernova&theme=tokyonight&hide_border=true&stroke=00D2FF&ring=00D2FF&fire=FF5733" width="100%" />
-  <img src="banner.jpg" width="100%" />
+  <img src="banner.png" width="100%" />
 </div>
 
 <div align="center">
